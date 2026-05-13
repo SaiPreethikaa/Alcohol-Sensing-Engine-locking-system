@@ -12,6 +12,7 @@ the engine to prevent the vehicle from starting.
 - BO Motor (simulates engine)
 - LED Indicator
 - Buzzer
+- Resistor
 - 9V Battery
 - Breadboard & Jump Wires
 
